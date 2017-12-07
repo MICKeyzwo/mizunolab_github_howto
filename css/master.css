@@ -8,5 +8,6 @@ body {
 
 .main {
     background-color: white;
-    margin: 0 auto;
+    margin: 20px auto;
+    width: 80%;
 }
