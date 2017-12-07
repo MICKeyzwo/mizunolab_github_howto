@@ -1,5 +1,5 @@
 body {
-    background-color: #fcfdff;
+    background-color: #cdf;
 }
 
 .wrap {
@@ -8,6 +8,8 @@ body {
 
 .main {
     background-color: white;
+    border-radius: 5px;
     margin: 20px auto;
+    padding: 10px;
     width: 80%;
 }
